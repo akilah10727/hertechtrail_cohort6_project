@@ -66,7 +66,7 @@ time, mark, audio, video {
 }
 body {
   font-family: "Larsseit";
-  color: #aeafb9;
+  color: #7a1fe2;
 }
 
 .container-fluid {
@@ -223,7 +223,7 @@ nav.fixed-top {
   font-family: "Gotham-Narrow-Book";
 }
 .scroll-button a {
-  background: #ffffff;
+  background: #9154b7;
   border-radius: 50%;
   display: block;
   width: 82px;
@@ -243,7 +243,7 @@ nav.fixed-top {
   width: 430px;
 }
 .social-links li {
-  border: 1px solid #ffffff;
+  border: 1px solid #7b338d;
   border-radius: 50%;
   height: 35px;
   width: 35px;
@@ -314,7 +314,7 @@ nav.fixed-top {
 h2 {
   font-family: "Larsseit-Bold";
   font-size: 33px;
-  color: #1e1f29;
+  color: #52177f;
 }
 h2::before {
   position: absolute;
@@ -497,7 +497,7 @@ a {
   display: block;
 }
 .portfolio-tab ul li a.active {
-  background-image: linear-gradient(to bottom, rgba(18, 112, 228, 0.071), rgba(18, 112, 228, 0.071), transparent);
+  background-image: linear-gradient(to bottom, rgba(217, 12, 232, 0.071), rgba(18, 112, 228, 0.071), transparent);
   background-image: -moz-linear-gradient(to bottom, rgba(18, 112, 228, 0.071), rgba(18, 112, 228, 0.071), transparent);
   background-image: -webkit-linear-gradient(to bottom, rgba(18, 112, 228, 0.071), rgba(18, 112, 228, 0.071), transparent);
   background-image: -ms-linear-gradient(to bottom, rgba(18, 112, 228, 0.071), rgba(18, 112, 228, 0.071), transparent);
@@ -526,10 +526,9 @@ a {
 
 .isotope,
 .isotope .isotope-item {
-  /* change duration value to whatever you like */
-  -webkit-transition-duration: 0.8s;
-  -moz-transition-duration: 0.8s;
-  transition-duration: 0.8s;
+  -webkit-transition-duration: 0.9s;
+  -moz-transition-duration: 0.9s;
+  transition-duration: 0.9s;
 }
 
 .isotope {
@@ -637,7 +636,7 @@ a {
   height: 50px;
 }
 .bottom-buttons a .txt {
-  background: -webkit-linear-gradient(left, #1270e4, #58c0ff);
+  background: -webkit-linear-gradient(left, #e412d6, #58c0ff);
   background: -ms-linear-gradient(left, #1270e4, #58c0ff);
   background: -moz-linear-gradient(left, #1270e4, #58c0ff);
   background: -o-linear-gradient(left, #1270e4, #58c0ff);
