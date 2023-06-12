@@ -66,7 +66,7 @@ time, mark, audio, video {
 }
 body {
   font-family: "Larsseit";
-  color: #7a1fe2;
+  color: black;
 }
 
 .container-fluid {
@@ -808,7 +808,7 @@ footer.fh5co-footer p {
   margin: 20px 0;
 }
 footer.fh5co-footer p span {
-  margin-right: 10px;
+  margin-bottom: 10px;
 }
 footer.fh5co-footer p span.phone {
   top: -2px;
@@ -832,7 +832,7 @@ footer.fh5co-footer .social-links {
 }
 footer.fh5co-footer .social-links li {
   border-color: #1e1f29;
-  float: left;
+  float:bottom;
 }
 footer.fh5co-footer .social-links li a {
   color: #1e1f29;
